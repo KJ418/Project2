@@ -13,5 +13,5 @@ How to Run:
 Screenshot of gradebot results:
 <img width="979" height="398" alt="image" src="https://github.com/user-attachments/assets/3476b207-ef61-4e60-bdf8-e234f08efe29" />
 
-Screenshot of test suite results:
+Screenshot of test suite results (test was made using Claude AI with prompt "Make a test suite for main.py"):
 <img width="1037" height="284" alt="image" src="https://github.com/user-attachments/assets/59fdeefa-23f0-48d0-ae59-f444ec494acd" />
