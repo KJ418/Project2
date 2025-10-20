@@ -1,4 +1,4 @@
-<h1>ReadME</h1>
+<h1>README</h1>
 
 - Language: Python version 3.12.10
 - Platform: Windows 10 Home
